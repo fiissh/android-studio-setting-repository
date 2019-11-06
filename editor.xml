@@ -1,0 +1,13 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Monaco" />
+    <option name="LINE_SPACING" value="1.3" />
+  </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+  </component>
+</application>
