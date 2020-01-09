@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONSOLE" />
       <item value="Maps the specified key to the specified value in this table." />
       <item value="retrieved" />
       <item value="incompatible" />
