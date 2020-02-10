@@ -22,9 +22,13 @@
           <option name="url" value="http://gitlab.mobvista.com" />
           <option name="userName" value="yongchun.zhao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.mobvista.com/incent-app-android/incentAppGP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WorkSpace/Android" />
+    <option name="cloneParentDir" value="$USER_HOME$/WorkSpace/Company" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
