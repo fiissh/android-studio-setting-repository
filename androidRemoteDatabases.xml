@@ -1,0 +1,25 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="EMULATOR_Pixel_XL_API_28" />
+            <option name="packageName" value="com.mintegral.sdk.demo" />
+            <option name="databaseName" value="mintegral.msdk.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1582003344" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/WorkSpace/Company/andsdk/MobSdk" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
