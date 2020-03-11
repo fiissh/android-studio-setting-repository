@@ -32,6 +32,25 @@
       <entry>
         <key>
           <db-key>
+            <option name="deviceId" value="EMULATOR_Pixel_XL_API_28" />
+            <option name="packageName" value="com.mintegral.msdk.base.download.demo" />
+            <option name="databaseName" value="mtg_download_db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1583898791" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/WorkSpace/Company/mtg-base-framework-download" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
             <option name="deviceId" value="EMULATOR_Pixel_XL_API_R" />
             <option name="packageName" value="com.mintegral.msdk.base.download.demo" />
             <option name="databaseName" value="mtg_download_db" />
