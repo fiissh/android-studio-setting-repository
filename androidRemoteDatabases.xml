@@ -59,11 +59,6 @@
         <value>
           <db-info>
             <option name="modificationTime" value="1583839543" />
-            <option name="referringProjects">
-              <set>
-                <option value="$USER_HOME$/WorkSpace/Company/mtg-base-framework-download" />
-              </set>
-            </option>
           </db-info>
         </value>
       </entry>
